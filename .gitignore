@@ -1,3 +1,4 @@
 .parcel-cache
 #Dependacy Directory
 node_modules
+dist
